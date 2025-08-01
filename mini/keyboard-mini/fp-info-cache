@@ -1,4 +1,4 @@
-24744470538060270
+24740982903425129
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57253,32 +57253,18 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 EUK
-D_SOD-123_Reversible
-SOD-123
-SOD-123
-0
-6
-2
-EUK
-Kailh_socket_MX_reversible
+Kailh_socket_MX
 MX-style keyswitch with reversible Kailh socket mount
 MX,cherry,gateron,kailh,pg1511,socket
 0
-4
+2
 2
 EUK
 SK6812-MINI-E
 
 
 0
-8
 4
-EUK
-TRRS_JACK_MJ4PP9
-
-
-0
-8
 4
 Ferrite_THT
 LairdTech_28C0236-0JW-10
