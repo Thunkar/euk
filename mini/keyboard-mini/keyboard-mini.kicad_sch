@@ -3273,7 +3273,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "EUK:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 50.8 60.96 0)
 			(effects
 				(font
@@ -3407,7 +3407,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "EUK:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 76.2 60.96 0)
 			(effects
 				(font
@@ -3541,7 +3541,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "EUK:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 50.8 86.36 0)
 			(effects
 				(font
@@ -3675,7 +3675,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "EUK:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 76.2 86.36 0)
 			(effects
 				(font
@@ -3964,7 +3964,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "EUK:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 76.2 106.68 0)
 			(effects
 				(font
@@ -4032,7 +4032,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "EUK:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 50.8 106.68 0)
 			(effects
 				(font
@@ -4365,7 +4365,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "EUK:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 104.14 86.36 0)
 			(effects
 				(font
@@ -5954,7 +5954,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "EUK:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 104.14 106.68 0)
 			(effects
 				(font
@@ -6298,7 +6298,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "EUK:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 104.14 60.96 0)
 			(effects
 				(font

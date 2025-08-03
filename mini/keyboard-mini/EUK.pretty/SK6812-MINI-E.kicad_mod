@@ -58,7 +58,7 @@
 	(attr smd)
 	(fp_poly
 		(pts
-			(xy 2.9 1.4) (xy 2.3 1.4) (xy 2.3 2)
+			(xy 2.9 1.5) (xy 2.3 1.5) (xy 2.3 2.1)
 		)
 		(stroke
 			(width 0.1)
@@ -70,7 +70,7 @@
 	)
 	(fp_poly
 		(pts
-			(xy -2.6 -1.4) (xy -2.36 -1.73) (xy -2.84 -1.73) (xy -2.6 -1.4)
+			(xy -2.6 -1.67) (xy -2.36 -2) (xy -2.84 -2) (xy -2.6 -1.67)
 		)
 		(stroke
 			(width 0.12)
@@ -206,27 +206,26 @@
 	)
 	(pad "1" smd rect
 		(at -2.675 0.75)
-		(size 1.45 0.82)
+		(size 1.45 1.2)
 		(layers "B.Cu" "B.Mask" "B.Paste")
 		(uuid "08165897-c9d1-466a-99f2-7f6d05e45bdc")
 	)
 	(pad "2" smd rect
 		(at 2.675 0.75)
-		(size 1.45 0.82)
+		(size 1.45 1.2)
 		(layers "B.Cu" "B.Mask" "B.Paste")
 		(uuid "434806cc-5a9b-4a70-a3cc-82a4dbdc0cc6")
 	)
 	(pad "3" smd rect
 		(at 2.675 -0.75)
-		(size 1.45 0.82)
+		(size 1.45 1.2)
 		(layers "B.Cu" "B.Mask" "B.Paste")
 		(uuid "5ee21883-8e5c-4a78-bd17-5d12c39142e0")
 	)
-	(pad "4" smd roundrect
+	(pad "4" smd rect
 		(at -2.675 -0.75)
-		(size 1.45 0.82)
+		(size 1.45 1.2)
 		(layers "B.Cu" "B.Mask" "B.Paste")
-		(roundrect_rratio 0.25)
 		(uuid "cc1706c7-5d0d-4ea0-91ff-ef020f23add4")
 	)
 	(embedded_fonts no)
