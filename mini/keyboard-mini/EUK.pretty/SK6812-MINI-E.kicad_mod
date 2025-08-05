@@ -231,13 +231,13 @@
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/EUK.pretty/SK6812MINI-E v1.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0 -1.7)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 90 0 0)
+			(xyz -90 -0 -0)
 		)
 	)
 )

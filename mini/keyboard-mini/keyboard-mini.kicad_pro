@@ -1372,7 +1372,7 @@
       "plot": "flatCAM/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "keyboard-mini.step",
       "svg": "",
       "vrml": ""
     },

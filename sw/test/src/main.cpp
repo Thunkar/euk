@@ -1,11 +1,28 @@
-// New feature! Overclocking WS2812
-// #define FASTLED_OVERCLOCK 1.2 // 20% overclock ~ 960 khz.
+
 #include <FastLED.h>
-#define NUM_LEDS 1
-#define DATA_PIN 29
+
+
+#define DATA_PIN    29
+#define LED_TYPE    SK6812
+#define NUM_LEDS    9
 CRGB leds[NUM_LEDS];
-void setup() { FastLED.addLeds<SK6812, DATA_PIN>(leds, NUM_LEDS); }
-void loop() {
-	leds[0] = CRGB::White; FastLED.show(); delay(30);
-	leds[0] = CRGB::Black; FastLED.show(); delay(30);
+
+#define BRIGHTNESS          128
+#define FRAMES_PER_SECOND  120
+
+void setup() {
+  FastLED.addLeds<LED_TYPE,DATA_PIN>(leds, NUM_LEDS).setCorrection(TypicalLEDStrip);
+  FastLED.setBrightness(BRIGHTNESS);
+}
+   
+
+uint8_t gHue = 0;
+           
+void loop()
+{
+  fill_rainbow( leds, NUM_LEDS, gHue, 7);
+
+  FastLED.show();  
+  FastLED.delay(1000/FRAMES_PER_SECOND); 
+  EVERY_N_MILLISECONDS( 20 ) { gHue++; }
 }
