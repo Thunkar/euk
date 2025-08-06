@@ -1,0 +1,31 @@
+{
+    "name": "euk_mini",
+    "productId": "0x534A",
+    "vendorId": "0x534A",
+    "matrix": {
+        "rows": 3,
+        "cols": 3
+    },
+    "layouts": {
+        "keymap": [
+            [
+                "0,0",
+                "0,1",
+                "0,2"
+            ],
+            [
+                "1,0",
+                "1,1",
+                "1,2"
+            ],
+            [
+                "2,0",
+                "2,1",
+                "2,2"
+            ]
+        ]
+    },
+    "menus": [
+        "qmk_rgb_matrix"
+    ]
+}
