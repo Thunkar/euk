@@ -54,11 +54,11 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "clearance|320300000|159762500|ae13b667-e666-4865-baf4-2e6e1045f20a|925f08fe-bec4-4d5e-8b57-f82e8433b307",
+          "clearance|320300000|156512500|ae13b667-e666-4865-baf4-2e6e1045f20a|925f08fe-bec4-4d5e-8b57-f82e8433b307",
           ""
         ],
         [
-          "clearance|326800000|159762500|ae13b667-e666-4865-baf4-2e6e1045f20a|925f08fe-bec4-4d5e-8b57-f82e8433b307",
+          "clearance|326800000|156512500|65637a77-e0dd-4f06-8579-483a1281fba2|f9422318-7add-41bc-89a1-b30640c80791",
           ""
         ]
       ],
@@ -1368,7 +1368,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "keyboard.step",
       "svg": "",
       "vrml": ""
     },
