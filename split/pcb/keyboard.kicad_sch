@@ -16116,7 +16116,7 @@
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 388.62 93.98 90)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
