@@ -4,7 +4,7 @@
 
 #define DATA_PIN    29
 #define LED_TYPE    SK6812
-#define NUM_LEDS    9
+#define NUM_LEDS    33
 CRGB leds[NUM_LEDS];
 
 #define BRIGHTNESS          128
