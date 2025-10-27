@@ -2,6 +2,10 @@
 
 A split ergonomic keyboard project with customizable accessories and per-key RGB lighting.
 
+![Left side](./split/docs/images/left_side.jpg)
+![Right side](./split/docs/images/right_side.jpg)
+![Parts](./split/docs/images/parts.jpg)
+
 ## Features
 
 - Split design for ergonomic typing
